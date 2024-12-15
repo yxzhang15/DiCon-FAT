@@ -6,5 +6,5 @@ This repository contains the source code for our work DiCon-FAT. DiCon-FAT is a 
 ## Usage
 Training employs the following commands. 
 ```sh
-CUDA_VISIBLE_DEVICES=0 python main.py
+CUDA_VISIBLE_DEVICES=0 python train_diconfat.py
 ```
